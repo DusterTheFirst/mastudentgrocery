@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}
+{{ page.title }}
+{% endblock %}
+
+{% block body %}
+{% include "part/header.html" %}
+{% include "part/toc.html" %}
+{{ page.content | safe }}
+{% endblock %}

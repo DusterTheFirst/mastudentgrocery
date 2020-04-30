@@ -1,0 +1,12 @@
+# The URL the site will be built for
+base_url = "https://covid.dusterthefirst.com"
+
+title = "TODO:"
+description = "TODO:"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+toc = true
+
+[extra]
+# Put all your custom variables here

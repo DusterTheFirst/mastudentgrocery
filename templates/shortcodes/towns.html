@@ -1,0 +1,7 @@
+{# {% set section = library.get_section(path="towns/_index.md", metadata_only=true) %} #}
+{#{% for town in section.pages %}
+<a href="{{ town.permalink }}" class="town-link">{{ town.title }}</a>
+{% endfor %} #}
+
+<pre>{{ __tera_context | escape }}</pre>
+<pre>{{ get_section(path="towns/_index.md") | json_encode(pretty=true) }}</pre>
