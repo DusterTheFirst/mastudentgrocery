@@ -1,14 +1,21 @@
-<nav>
-    <a href="/">Home</a>
+<link rel="stylesheet" href="/header.css">
+<nav class="header">
+    <div class="navitem">
+        <a href="/">Home</a>
+    </div>
     <div class="navitem">
         <a href="/towns">Towns</a>
         <div class="dropdown">
-            {% set sec = get_section(path="towns/_index.md", metadata_only=true) %}
+            {% set sec = get_section(path="towns/_index.md") %}
             {% for town in sec.pages %}
             <a href="{{ town.permalink }}">{{ town.title }}</a>
             {% endfor %}
         </div>
     </div>
-    <a href="/safety">Safety Process</a>
-    <a href="/delivery">Delivery Policy</a>
+    <div class="navitem">
+        <a href="/safety">Safety Process</a>
+    </div>
+    <div class="navitem">
+        <a href="/delivery">Delivery Policy</a>
+    </div>
 </nav>

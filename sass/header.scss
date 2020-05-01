@@ -1,0 +1,47 @@
+nav.header {
+    background-color: #383838;
+
+    .navitem {
+        padding: 10px 20px;
+        display: inline-block;
+
+        &:hover {
+            background-color: #ffffff49;
+        }
+
+        a {
+            display: inline-block;
+            text-decoration: none;
+            font-size: 20px;
+
+            color: #ffffff;
+
+            &:visited {
+                color: #ffffff;
+            }
+        }
+
+        .dropdown {
+            display: none;
+            position: absolute;
+            background-color: red;
+            margin-top: 10px;
+            margin-left: -20px;
+
+            a {
+                &:hover {
+                    background-color: #ffffff49;
+                }
+
+                padding: 10px 20px;
+                display: block;
+            }
+        }
+
+        &:hover {
+            .dropdown {
+                display: block;
+            }
+        }
+    }
+}

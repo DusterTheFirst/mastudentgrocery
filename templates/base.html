@@ -3,9 +3,14 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>{% block title %}{% endblock title %}</title>
+        <link rel="stylesheet" href="/global.css">
+        {% block head %}{% endblock %}
+        <title>{% block title %}{% endblock %}</title>
     </head>
     <body>
-        {% block body %}{% endblock body %}
+        {% block header %}{% endblock %}
+        <div class="content">
+            {% block body %}{% endblock %}
+        </div>
     </body>
 </html>

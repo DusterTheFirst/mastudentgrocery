@@ -4,8 +4,10 @@
 {{ section.title }}
 {% endblock %}
 
+{% block header %}
+{% include "part/header.html" %}
+{% endblock %}
 
 {% block body %}
-{% include "part/header.html" %}
 {{ section.content | safe }}
 {% endblock %}

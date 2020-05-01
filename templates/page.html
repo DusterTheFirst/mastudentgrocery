@@ -4,8 +4,11 @@
 {{ page.title }}
 {% endblock %}
 
-{% block body %}
+{% block header %}
 {% include "part/header.html" %}
+{% endblock %}
+
+{% block body %}
 {% include "part/toc.html" %}
 {{ page.content | safe }}
 {% endblock %}
