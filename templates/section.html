@@ -9,5 +9,17 @@
 {% endblock %}
 
 {% block body %}
+
+{% if section.extra.towns == "top" %}
+<h1>Towns in the program</h1>
+{% include "part/towns.html" %}
+{% endif %}
+
 {{ section.content | safe }}
+
+{% if section.extra.towns == "bottom" %}
+<h1>Towns in the program</h1>
+{% include "part/towns.html" %}
+{% endif %}
+
 {% endblock %}

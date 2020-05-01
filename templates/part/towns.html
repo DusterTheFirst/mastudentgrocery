@@ -1,0 +1,8 @@
+{% set section = get_section(path="towns/_index.md") %}
+<ul class="towns">
+    {% for town in section.pages %}
+    <li>
+        <a href="{{ town.permalink }}" class="town-link">{{ town.title }}</a>
+    </li>
+    {% endfor %}
+</ul>

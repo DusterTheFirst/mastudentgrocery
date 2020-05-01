@@ -1,9 +1,11 @@
 +++
 title = "Towns"
+
+[extra]
+towns = "top"
 +++
 
-# Towns In the program
-{% include "parts/towns.html" %}
+
 
 # Add your town
 **Placeholder info on how to join the program**

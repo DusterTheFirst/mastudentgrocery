@@ -1,13 +1,1 @@
-{% extends "base.html" %}
-
-{% block title %}
-{{ section.title }}
-{% endblock %}
-
-{% block header %}
-{% include "part/header.html" %}
-{% endblock %}
-
-{% block body %}
-{{ section.content | safe }}
-{% endblock %}
+{% extends "section.html" %}

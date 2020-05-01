@@ -1,5 +1,8 @@
 +++
 title = "TODO:"
+
+[extra]
+towns = "bottom"
 +++
 
 {% jumbotron(image = "https://via.placeholder.com/10000x180/FFFF00?text=PLACEHOLDER%20IMAGE", height="180px") %}
@@ -17,6 +20,3 @@ Dolores et accusantium soluta exercitationem maxime et. Placeat dolorem autem na
 Quia in qui molestias. Corporis omnis et voluptatem. Soluta odit eius deserunt tempora saepe. Porro cupiditate vitae qui consectetur. Harum sapiente eum omnis. Molestiae illo aliquid quia fuga quod dignissimos.
 
 Velit beatae saepe ipsam incidunt laborum. Nemo et consequatur atque nostrum laboriosam quia soluta. Natus architecto nostrum voluptatem vitae reiciendis nihil. Quia doloremque in pariatur officiis. Temporibus adipisci recusandae perferendis.
-
-# Towns in the program
-{{ towns() }}
