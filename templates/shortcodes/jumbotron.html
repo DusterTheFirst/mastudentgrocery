@@ -1,0 +1,6 @@
+<link rel="stylesheet" href="/jumbotron.css">
+<div class="jumbotron" style="background-image: url({{image}}); {% if height %}height: {{height}};{% endif %}">
+    <div class="center">
+        {{ body | markdown | safe }}
+    </div>
+</div>

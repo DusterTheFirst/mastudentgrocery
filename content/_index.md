@@ -2,8 +2,10 @@
 title = "TODO:"
 +++
 
-A voulenteer group dedicated to bringing food and essential goods to
-you for **free** during this pandemic
+{% jumbotron(image = "https://via.placeholder.com/10000x180/FFFF00?text=PLACEHOLDER%20IMAGE", height="180px") %}
+    A voulenteer group dedicated to bringing food and essential goods to you for **free** during this pandemic
+{% end %}
+
 
 # About
 Iusto qui aliquam asperiores. Praesentium necessitatibus autem eaque illo quo quos voluptatem commodi. Dignissimos corporis repellat aperiam rerum amet. Qui et vel omnis accusamus omnis dolore. Voluptas qui inventore excepturi excepturi.
