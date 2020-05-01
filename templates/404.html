@@ -6,9 +6,16 @@
 
 {% block header %}
 {% include "part/header.html" %}
+<link rel="stylesheet" href="">
 {% endblock %}
 
 {% block body %}
-404 TODO:
-<pre>{{ __tera_context }}</pre>
+<div class="center">
+    <h1>404 - Page Not Found</h1>
+    <div class="help">
+        This page does not exist.
+        Check your spelling of the URL or use a navigation
+        link above to return to safety
+    </div>
+</div>
 {% endblock %}
