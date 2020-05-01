@@ -12,7 +12,6 @@ title = "Wellesley"
 {{ person(name = "dude4", url = "https://via.placeholder.com/100/00FFFF/000000?text=Person4") }}
 {{ person(name = "dude5", url = "https://via.placeholder.com/100/0000FF/FFFFFF?text=Person5") }}
 
-
 # Order
 {{ google_form(form_url = "https://docs.google.com/forms/d/e/1FAIpQLSdWO5bSqSzLEfU9IlkAOPF1U_k63T7RtlwkcaVOjIFu_Szw5w/viewform?embedded=true" ) }}
 
