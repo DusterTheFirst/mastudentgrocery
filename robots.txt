@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://covid.dusterthefirst.com/sitemap.xml
+Sitemap: https://demo.dusterthefirst.com/sitemap.xml
