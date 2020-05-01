@@ -1,0 +1,17 @@
+name: Build Zola
+on: [push]
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    needs: [lint]
+    steps:
+      - name: Checkout 🛎️
+        uses: actions/checkout@v2
+      - name: Build
+        run: ./.github/zola build
+      - name: Deploy 🚀
+        uses: JamesIves/github-pages-deploy-action@releases/v3
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH: gh-pages
+          FOLDER: build
