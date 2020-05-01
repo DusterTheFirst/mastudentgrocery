@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://covid.dusterthefirst.com"
+base_url = "https://demo.dusterthefirst.com"
 
 title = "TODO:"
 description = "TODO:"
