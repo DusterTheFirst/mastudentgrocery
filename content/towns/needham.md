@@ -13,8 +13,8 @@ title = "Needham"
 
 ## Info
 
-Email: [email@yourtown.com](mailto:email@yourtown.com)<br>
-Phone: [+1 777 777 7777](tel:17777777777)
+Email: [needhamfooddelivery@gmail.com](mailto:needhamfooddelivery@gmail.com)<br>
+Phone: [661-573-4198](tel:661-573-4198)
 
 ## Voulenteers
 {{ person(name = "dude1", url = "https://via.placeholder.com/100/FF0000/FFFFFF?text=Person1") }}
