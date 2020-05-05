@@ -20,6 +20,10 @@ nav.header {
     .navitem {
         display: inline-block;
 
+        &.right {
+            float: right;
+        }
+
         &:hover {
             background-color: #555555;
         }
@@ -68,6 +72,10 @@ nav.header {
     nav.header {
         .navitem {
             display: none;
+
+            &.right {
+                float: none;
+            }
         }
 
         .menu {

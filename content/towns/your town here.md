@@ -2,18 +2,24 @@
 title = "Your town here"
 +++
 
-# About us
-**Your mission statement here**
+# Your town here
+
+<div class="biglink center">
+
+[Order Here](#)
+[Volunteer](#)
+
+</div>
+
+## Info
+
+Email: [email@yourtown.com](mailto:email@yourtown.com)<br>
+Phone: [+1 777 777 7777](tel:17777777777)
 
 ## Voulenteers
-{{ person(name = "dude1", url = "https://via.placeholder.com/100/FF0000/FFFFFF?text=Your") }}
-{{ person(name = "dude2", url = "https://via.placeholder.com/100/FFFF00/000000?text=Voul") }}
-{{ person(name = "dude3", url = "https://via.placeholder.com/100/00FF00/000000?text=ente") }}
-{{ person(name = "dude4", url = "https://via.placeholder.com/100/00FFFF/000000?text=ers") }}
-{{ person(name = "dude5", url = "https://via.placeholder.com/100/0000FF/FFFFFF?text=Here") }}
+{{ person(name = "dude1", url = "https://via.placeholder.com/100/FF0000/FFFFFF?text=Person1") }}
+{{ person(name = "dude2", url = "https://via.placeholder.com/100/FFFF00/000000?text=Person2") }}
+{{ person(name = "dude3", url = "https://via.placeholder.com/100/00FF00/000000?text=Person3") }}
+{{ person(name = "dude4", url = "https://via.placeholder.com/100/00FFFF/000000?text=Person4") }}
+{{ person(name = "dude5", url = "https://via.placeholder.com/100/0000FF/FFFFFF?text=Person5") }}
 
-# Order
-**Your order form here**
-
-# Volunteer
-**Your volenteer form here**
