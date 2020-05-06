@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "https://demo.dusterthefirst.com"
+base_url = "https://mastudentgrocery.dusterthefirst.com"
 
-title = "TODO:"
-description = "TODO:"
+title = "MA Student Grocery"
+description = "Groceries + Other Essential Goods Delivered for free during COVID-19"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true

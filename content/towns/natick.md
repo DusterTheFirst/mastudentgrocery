@@ -16,7 +16,7 @@ title = "Natick"
 Email: [natickcoronavirus@gmail.com](mailto:natickcoronavirus@gmail.com)<br>
 Phone: [508-641-9531](tel:508-641-9531)
 
-## Voulenteers
+## Organizers 
 - **Brian Cheung**
 - **Yukihiro Sayama**
 - **Dominic Chan**

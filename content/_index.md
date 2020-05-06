@@ -1,11 +1,9 @@
 +++
-title = "TODO:"
+title = "MA Student Grocery"
 
 [extra]
 towns = "bottom"
 +++
-
-
 
 # About
 <div class="about">

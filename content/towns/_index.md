@@ -5,8 +5,6 @@ title = "Towns"
 towns = "top"
 +++
 
-
-
 # Add your town
 **Placeholder info on how to join the program**
 
