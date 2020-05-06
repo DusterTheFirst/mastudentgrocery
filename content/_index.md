@@ -5,9 +5,10 @@ title = "MA Student Grocery"
 towns = "bottom"
 +++
 
-# About
 <div class="about">
-TODO:
+    <div class="center">
+        Students from multiple towns working together to help you during this pandemic
+    </div>
 </div>
 
 <div class="center">
