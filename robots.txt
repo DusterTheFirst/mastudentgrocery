@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://demo.dusterthefirst.com/sitemap.xml
+Sitemap: https://mastudentgrocery.dusterthefirst.com/sitemap.xml
