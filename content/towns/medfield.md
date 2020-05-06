@@ -13,7 +13,6 @@ title = "Medfield"
 
 ## Info
 
-Email: [email@yourtown.com](mailto:email@yourtown.com)<br>
 Phone: [508-934-9271](tel:508-934-9271)
 
 ## Organizers
