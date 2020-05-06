@@ -17,7 +17,8 @@ and physical interactions should be limited as much as possible.
  
 4. All groceries will be left at the front doorstep unless the customer says otherwise.
 Groceries will not be delivered inside for the safety of both parties.
-All groceries within the bags will be sanitized using disinfectant wipes before dropped off for the customer.
+If the buyer wishes for their groceries to be sanitized, then must leave out disinfectant wipes for the deliverer to use.
+We recommend you disinfect the groceries yourself after as well.
  
 5. Any volunteers who are sick or have been exposed to those who are ill should not deliver
 (in the case of being exposed, for 14 days at least after exposure).
