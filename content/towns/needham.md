@@ -17,9 +17,10 @@ Email: [needhamfooddelivery@gmail.com](mailto:needhamfooddelivery@gmail.com)<br>
 Phone: [661-573-4198](tel:661-573-4198)
 
 # Organizers
-- Catherine Chen
-- Eddie Flanagan
-- Andrew Biedron
-- Isabela Rodrigues
-- Isabelle Young
-- Chris Zhang
+- **Abhishek Kasula**
+- **Catherine Chen**
+- **Eddie Flanagan**
+- **Andrew Biedron**
+- **Isabela Rodrigues**
+- **Isabelle Young**
+- **Chris Zhang**
