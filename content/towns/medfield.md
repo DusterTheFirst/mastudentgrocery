@@ -13,6 +13,7 @@ title = "Medfield"
 
 ## Info
 
+Email: [medfieldcoronakids@gmail.com](mailto:medfieldcoronakids@gmail.com)<br>
 Phone: [508-934-9271](tel:508-934-9271)
 
 ## Organizers
